@@ -65,7 +65,6 @@ $lista->insertar("Pop");
 $lista->insertar("Rock");
 $lista->imprimir();
 
-
 ?>
 
 
